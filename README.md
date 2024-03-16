@@ -1,4 +1,5 @@
 Simple Home Drawing using OpenGL (GLEW + FreeGLUT)
+
 This project demonstrates how to draw a simple scene of a home using OpenGL, GLEW, and FreeGLUT libraries. The scene consists of a filled rectangle representing the house, a triangle representing the roof, and a circle representing the sun. The project is developed using Visual Studio.
 
 Prerequisites
